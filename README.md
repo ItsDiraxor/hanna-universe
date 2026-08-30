@@ -1,12 +1,12 @@
 # 🌌 Hanna Universe ❤️
 
-> **A little universe made for Hanna.**
+> A little universe made for one person.
 
-**Hanna Universe** is a cinematic, interactive romantic web experience built from scratch with HTML, CSS and Vanilla JavaScript.
+### 🌐 Language
 
-It isn't just a webpage.
+🇬🇧 **English** · [🇮🇷 فارسی](README_FA.md)
 
-It's a tiny universe filled with stars, memories, letters, hidden messages, interactive elements, puzzles, music, flowers, secrets, and a few things that are intentionally waiting to be discovered.
+---
 
 Made by **Erfan (Blaydrax)**, especially for **Hanna**. ❤️
 
