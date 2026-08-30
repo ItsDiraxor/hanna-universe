@@ -1,0 +1,10 @@
+{
+  "name":"Hanna — My Favorite Universe",
+  "short_name":"Hanna ❤️",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#03030b",
+  "theme_color":"#03030b",
+  "description":"A little universe made for Hanna.",
+  "icons":[]
+}
